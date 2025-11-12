@@ -11,13 +11,13 @@ import { getMessaging, getToken, onMessage } from "firebase/messaging";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCnITpjw3h-WRpODY9Cv9Y2Ki1EcG3TZWM",
-  authDomain: "alertsphere-62588.firebaseapp.com",
-  projectId: "alertsphere-62588",
-  storageBucket: "alertsphere-62588.firebasestorage.app",
-  messagingSenderId: "283626450279",
-  appId: "1:283626450279:web:7f55890268beea988653c2",
-  measurementId: "G-ES2SVQY51F"
+  apiKey: "",
+  authDomain: ",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
